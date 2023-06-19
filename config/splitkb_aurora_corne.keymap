@@ -29,7 +29,7 @@
                 number_layer {
 // -----------------------------------------------------------------------------------------
 // |  TAB |  1  |  2  |  3  |  4  |  5  |   |  6  |  7  |  8  |  9  |  0   | BKSP |
-// | CTRL | BT1 | BT2 | BT3 | BT4 | BT5 |   | PUP | HOM |  UP | END |  .   |      |
+// | CTRL |     |     |     |     |     |   | PUP | HOM |  UP | END |  .   |      |
 // | SHFT |     |     |     |     |     |   | PDN | LFT | DWN | RGT | RALT |      |
 //                    | GUI |     | SPC |   | ENT | L_P | ALT |
                         bindings = <
