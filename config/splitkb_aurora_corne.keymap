@@ -49,7 +49,7 @@
    &kp TAB   &kp N1 &kp N2 &kp N3 &kp N4 &kp N5   &kp N6    &kp N7   &kp N8   &kp N9    &kp N0   &kp BSPC
    &kp LCTRL &none  &none  &none  &none  &none    &kp PG_UP &kp HOME &kp UP   &kp END   &kp DOT  &none
    &kp LSHFT &none  &none  &none  &none  &mo 4    &kp PG_DN &kp LEFT &kp DOWN &kp RIGHT &kp RALT &kp ESC
-                     &kp LGUI &trans &kp SPACE    &kp RET   &trans   &kp RALT
+                     &kp LGUI &trans &kp SPACE    &kp RET   &trans   &kp LALT
                         >;
                 };
 
